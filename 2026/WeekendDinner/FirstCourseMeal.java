@@ -33,9 +33,3 @@ public class FirstCourseMeal{
 
 
 }
-
-//if number !/ number{
-//    System.out.println("Number is prime");
-//
-//
-//}
