@@ -6,8 +6,6 @@ import java.util.Scanner;
     public static void main(String[] args){
     Random random = new Random();
 
-
-//for (int counter = 0; counter < 20; counter++){
     int face =  random.nextInt(20);
     System.out.println(face);
 
@@ -25,8 +23,6 @@ else{
     System.out.println("Correct Guy!!!");
 
 }
-
-//}
 
 
 

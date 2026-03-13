@@ -7,7 +7,6 @@ import java.util.Scanner;
     Random random = new Random();
 
 
-//for (int counter = 0; counter < 20; counter++){
     int face =   random.nextInt(20);
     System.out.println(face);
 
@@ -28,8 +27,6 @@ else if (number < face ){
     System.out.println("Correct Guy!!!");
 
 }
-
-//}
 
 
 

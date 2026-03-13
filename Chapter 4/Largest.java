@@ -23,8 +23,7 @@ if (number > largest){
 
 }
 
-//    counter = counter + 1;
-counter++;
+    counter = counter + 1;
 
 }
 
